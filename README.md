@@ -1,5 +1,11 @@
 # AWS Notify Slack Terraform module
 
+This is an open source project published by The Scale Factory.
+
+We currently consider this project to be archived.
+
+:warning: We’re no longer using or working on this project. It remains available for posterity or reference, but we’re no longer accepting issues or pull requests.
+
 This module creates SNS topic (or use existing one) and a AWS Lambda function which sends notifications to Slack using [incoming webhooks API](https://api.slack.com/incoming-webhooks).
 
 Start by setting up an [incoming webhook integration](https://my.slack.com/services/new/incoming-webhook/) in your Slack workspace.
